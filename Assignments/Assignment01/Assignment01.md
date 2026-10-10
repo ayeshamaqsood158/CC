@@ -2,11 +2,11 @@
 
 
 
-**Name:** Ayesha Maqsood  
+**Name:** Ayesha Maqsood 
 
-**Registration Number:** FA24B1-SE-042  
+**Registration Number:** FA24B1-SE-042 
 
-**GitHub Username:** ayeshamagsood158  
+**GitHub Username:** ayeshamaqsood158 
 
 **Date:** 10 October 2026
 
@@ -63,7 +63,7 @@
 
 ## Task 4: Create a Portfolio or CV with GitHub Pages
 
-- Created a public GitHub repository named àyeshamagsood158.github.io`.
+- Created a public GitHub repository named àyeshamaqsood158.github.io`.
 
 - Developed a portfolio website using HTML (ìndex.html`) and CSS (`styles.css`).
 
@@ -71,7 +71,7 @@
 
 - Deployed the site using GitHub Pages (Deploy from branch: `main`, `/ (root)`).
 
-- Verified the live site at: [https://ayeshamagsood158.github.io/](https://ayeshamagsood158.github.io/)
+- Verified the live site at: [https://ayeshamaqsood158.github.io/](https://ayeshamaqsood158.github.io/)
 
 
 
@@ -80,6 +80,6 @@
 
 - **Gitea Repository:** http://192.168.83.129:3000/admin/Assignment01
 
-- **GitHub Assignment01 Repository:** https://github.com/ayeshamagsood158/Assignment01
+- **GitHub Assignment01 Repository:** https://github.com/ayeshamaqsood158/Assignment01
 
-- **Live Portfolio:** https://ayeshamagsood158.github.io/
+- **Live Portfolio:** https://ayeshamaqsood158.github.io/
